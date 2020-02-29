@@ -1,6 +1,6 @@
-import 'package:despicables_me_app/models/character.dart';
-import 'package:despicables_me_app/pages/character_detail_screen.dart';
-import 'package:despicables_me_app/styleguide.dart';
+import 'package:despicable_me_app/models/character.dart';
+import 'package:despicable_me_app/pages/character_detail_screen.dart';
+import 'package:despicable_me_app/styleguide.dart';
 import 'package:flutter/material.dart';
 
 class CharacterWidget extends StatelessWidget {

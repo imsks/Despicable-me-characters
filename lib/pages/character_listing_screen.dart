@@ -1,5 +1,5 @@
-import 'package:despicables_me_app/styleguide.dart';
-import 'package:despicables_me_app/widgets/character_widget.dart';
+import 'package:despicable_me_app/styleguide.dart';
+import 'package:despicable_me_app/widgets/character_widget.dart';
 import 'package:flutter/material.dart';
 
 class CharacterListingScreen extends StatefulWidget {

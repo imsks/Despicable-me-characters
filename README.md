@@ -1,20 +1,16 @@
-# despicable_me_characters_app
+# despicable_me_app
 
-Created a demo for Despicable Me Characters in Flutter. You will learn Gradients, Custom Clipper, Hero Transition, creating Responsive UI, PageView, Custom Bottom Sheet
+A new Flutter application.
 
-Started this project as a design mock up for Fitness App 
-**Design: Despicable Me Characters** - https://dribbble.com/shots/6403829-Movie-Character-UI-Animation
+## Getting Started
 
-*This project uses Dart 2.2 above*
+This project is a starting point for a Flutter application.
 
-## Video Series
+A few resources to get you started if this is your first Flutter project:
 
-**Part 1-** https://youtu.be/-5DTrcXxGs8
-You will learn Gradients, Custom Clipper, Hero Transition, creating Responsive UI.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-**Part 2-** https://youtu.be/2cl70GbiJZc
-You will learn PageView and Custom Bottom Sheet Implementation.
-
-
-## Screenshots
-<table style={border:"none"}><tr><td><img src="https://github.com/TechieBlossom/despicable_me_characters_app/blob/master/screenshots/one.png" alt="Home Screen" width="400"/></td><td><img src="https://github.com/TechieBlossom/despicable_me_characters_app/blob/master/screenshots/two.png" alt="Home Screen" width="400"/></td></tr><tr><td><img src="https://github.com/TechieBlossom/despicable_me_characters_app/blob/master/screenshots/three.png" alt="Home Screen" width="400"/></td><td><img src="https://github.com/TechieBlossom/despicable_me_characters_app/blob/master/screenshots/four.png" alt="Home Screen" width="400"/></td></tr></table>
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

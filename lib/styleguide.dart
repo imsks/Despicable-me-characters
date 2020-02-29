@@ -5,7 +5,7 @@ class AppTheme {
   static const TextStyle display1 = TextStyle(
     fontFamily: 'WorkSans',
     color: Colors.black,
-    fontSize: 38,
+    fontSize: 32,
     fontWeight: FontWeight.w600,
     letterSpacing: 1.2,
   );
@@ -30,7 +30,7 @@ class AppTheme {
     inherit: true,
     fontFamily: 'WorkSans',
     fontWeight: FontWeight.w500,
-    fontSize: 24,
+    fontSize: 16,
     color: Colors.white.withOpacity(0.8),
   );
 }
